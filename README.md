@@ -9,7 +9,6 @@ This project is to build my portfolio by using react.
 - [Acceptance Criteria](#acceptance-criteria)
 - [Demo](#Demo)
 - [Credits](#credits)
-- [Github page deploy](#Deployment)
 - [License](#License)
 
 # User Story
@@ -54,15 +53,13 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Demo
-[Demo video](https://ocean-fun-oz.herokuapp.com/)
+[Demo video](https://drive.google.com/file/d/1NVEMECzyZXp0IoNcBjbob6UOhr28E4EF/view)
 
 ## Credits
 - React(.js) — a client-side JavaScript framework: https://reactjs.org/
 - Node(.js) — the premier JavaScript web server: https://nodejs.org/en/
  
 
-## Deployment
-[My React Live Page](https://ocean-fun-oz.herokuapp.com/)
 
 ## License
 
